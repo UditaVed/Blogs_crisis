@@ -46,15 +46,6 @@ map{
     width: 100%;
     margin-left: 6.8rem;
 }
-a img:last-child {
-    display: none;  
-  }
-  a:hover img:last-child {
-    display: block;  
-  }
-  a:hover img:first-child {
-    display: none;  
-}
 section.vid{
     grid-area: vid;
 }
